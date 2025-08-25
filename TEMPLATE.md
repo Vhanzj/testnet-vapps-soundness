@@ -2,16 +2,16 @@
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
+github_username: "Vhanzj "
+discord_id: "455524929727627265"
 timestamp: "2025-01-15"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
-- **Experience**: Brief background
+- **Name**: Cris 
+- **GitHub**: @Vhanzj
+- **Discord**: vinz3701
+- **Experience**: Long time been a developer wanted to have more experience in web3
 
 ## Project
 
